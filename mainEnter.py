@@ -12,7 +12,7 @@
 import os
 import readConfig
 import unittest
-import HTMLTestRunner
+#import HTMLTestRunner
 from common.Log import Log,MyLog
 from common import commons
 from common import configEmail
